@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-image: url(../images/popMusicBackground.webp);
+}
+
+.triviaTitle {
+    font-size: 3em;
+    width: 40%;
+    margin: 20px auto auto auto;
+    color: white;
+    background: black;
+    font-family: 'Monoton', cursive;
+}
+
+.instructions {
+    width: 40%;
+    margin: 50px auto;
+    color: white;
+    background: black;
+}
+
+.timer {
+    font-size: 2em;
+    width: 30%;
+    margin: 50px auto;
+    color: white;
+    background: black;
+}
+
+.questions {
+    font-size: 1em;
+    color: white;
+    background: black;
+    width: 50%;
+    margin: 30px auto auto auto;
+}
